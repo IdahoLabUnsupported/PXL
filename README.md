@@ -17,4 +17,4 @@ This package comes with various scripts that work together to get the pixel coor
 <b>ImageGetter.cs</b> is the script that makes the web request for your image. Specify the URL in the public field. You can also specify where you want the image and how you want it positioned in the other public fields "Image Position" and "Image Rotation".
 
 # License
-This code is provided under a BSD-3-Clause license and is not maintained. Feel free to alter this code. <br> See more under the <i>License</i> tab of this repo.
+This code is provided under a BSD-3-Clause license and is <b><ins>not</ins></b> maintained. Feel free to alter this code. <br> See more under the <i>License</i> tab of this repo.
