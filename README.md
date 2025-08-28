@@ -9,7 +9,7 @@ The code fetches an image, a button behind the image detects user touch via Unit
 Download this repo and unzip it. Navigate to the package manager under "Window" -> "Package Manager" in Unity. Select "Add package from disk". Find where you unzipped your package, and click the "manifest.json" file. 
 
 # To Set Up
-This package comes with various scripts that work together to make get the pixel coordinate.
+This package comes with various scripts that work together to get the pixel coordinate.
 
 # Important Info
 This code is provided under a ___ license and is not maintained. 
