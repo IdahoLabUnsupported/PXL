@@ -18,5 +18,7 @@ This package comes with various scripts that work together to get the pixel coor
 <b>ButtonManager.cs</b> is the script that creates the interactive panel behind the image. In the private method Notify(), the specific pixel that was touched is calculated (stored in the Vector2 "touchedPixel"). <br><br>
 <b>HandTracker.cs</b> is the script that gets the hand position when the interaction is triggered. 
 
+Feel free to customize these scripts to fit your needs like changing how you fetch the image if you need some sort of authentication or the rotation for the button manager. 
+
 # License
 This code is provided under a BSD-3-Clause license and is <b><ins>not</ins></b> maintained. Feel free to alter this code. <br> See more under the <i>License</i> tab of this repo.
