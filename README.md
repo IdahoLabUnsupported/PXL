@@ -12,4 +12,4 @@ Download this repo and unzip it. Navigate to the package manager under "Window" 
 This package comes with various scripts that work together to get the pixel coordinate.
 
 # Important Info
-This code is provided under a ___ license and is not maintained. 
+This code is provided under a BSD-3-Clause license and is not maintained. Feel free to alter this code.
