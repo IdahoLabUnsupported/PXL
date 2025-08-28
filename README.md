@@ -12,5 +12,5 @@ Download this repo and unzip it. Navigate to the package manager under "Window" 
 # To Set Up
 This package comes with various scripts that work together to get the pixel coordinate.
 
-# Important Info
-This code is provided under a BSD-3-Clause license and is not maintained. Feel free to alter this code.
+# License
+This code is provided under a BSD-3-Clause license and is not maintained. Feel free to alter this code. See more under the <i>License</i> tab of this repo.
