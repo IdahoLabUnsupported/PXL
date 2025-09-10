@@ -14,7 +14,7 @@ Download this repo and unzip it. Navigate to the package manager under "Window" 
 # To Set Up
 This package comes with various scripts that work together to get the pixel coordinate.
 
-<b>ImageGetter.cs</b> is the script that makes the web request for your image. Specify the URL in the public field. You can also specify where you want the image and how you want it positioned in the other public fields "Image Position" and "Image Rotation". <br><br>
+<b>ImageGetter.cs</b> is the script that makes the web request for your image. Specify the URL in the public field. You can also specify where you want the image and how you want it positioned in the other public fields "Image Position" and "Image Rotation". <i> This class fetches the image in the Start() method. </i> <br><br>
 <b>ButtonManager.cs</b> is the script that creates the interactive panel behind the image. In the private method Notify(), the specific pixel that was touched is calculated (stored in the Vector2 "touchedPixel"). <br><br>
 <b>HandTracker.cs</b> is the script that gets the hand position when the interaction is triggered. 
 
