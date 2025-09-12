@@ -3,7 +3,7 @@
 
 <b> Pixel eXtraction via Location tracking </b> (PXL) is an additional Unity package built on Microsoft's Mixed Reality Toolkit 3 framework for extended reality (XR) applications.
 <br><br>
-The code fetches an image, a button behind the image detects user touch via Unity cues, converts 3D input to pixel space and retrieves the corresponding pixel position. Images displayed as sprites aren't interactive by default, and this package aims to address that issue. 
+The code fetches an image, creates a button behind the image that detects user touch via Unity cues, and converts 3D input to pixel space and retrieves the corresponding pixel position. Images displayed as sprites aren't interactive by default, and this package aims to address that issue. 
 
 # To Install
 <b><i> Make sure that your Unity project has MRTK 3 and required dependencies all installed before proceeding.</i></b> <br> 
