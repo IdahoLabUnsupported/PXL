@@ -8,6 +8,7 @@ The code fetches an image, creates a button behind the image that detects user t
 # To Install
 <b><i> Make sure that your Unity project has MRTK 3 and required dependencies all installed before proceeding.</i></b> <br> 
 If you are new to Unity, follow Microsoft's setup instructions here: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/getting-started/setting-up/setup-new-project<br><br>
+Also make sure that you have your Unity scene configured for MRTK 3 using the instructions at this link: https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/getting-started/setting-up/setup-new-scene <br><br>
 
 Download this repo and unzip it. Navigate to the package manager under "Window" -> "Package Manager" in Unity. Select "Add package from disk". Find where you unzipped your package, and click the "manifest.json" file. 
 
