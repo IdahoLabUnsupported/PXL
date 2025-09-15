@@ -1,0 +1,6 @@
+{
+  "name": "gov.inl.unsupported",
+  "version": "1.0.0",
+  "description": "A way to make images interactive built using Microsoft's MRTK3",
+  "displayName": "PXL"
+}
