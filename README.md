@@ -1,6 +1,7 @@
 # PXL: Interactive Images in Unity and MRTK3
-
-
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+<br>
 <b> Pixel eXtraction via Location tracking </b> (PXL) is an additional Unity package built on Microsoft's Mixed Reality Toolkit 3 framework for extended reality (XR) applications.
 <br><br>
 The code fetches an image, creates a button behind the image that detects user touch via Unity cues, and converts 3D input to pixel space and retrieves the corresponding pixel position. Images displayed as sprites aren't interactive by default, and this package aims to address that issue. 
