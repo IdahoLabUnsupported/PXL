@@ -54,8 +54,10 @@ public class ImageGetter : MonoBehaviour
             var button = buttonManager.MakeButton(imageObject.transform);
 
             ///button and image become children of same parent transform
-            imageObject.transform.SetParent(transform.parent, true);
-            button.transform.SetParent(transform.parent, true); 
+            imageObject.transform.SetParent(transform.parent, false);
+            button.transform.SetParent(transform.parent, false); 
+            imageObject.transform.localPosition = Vector3.zero;
+            button.transform.localPosition = new Vector3(0, 0, 0.003f);
 
             ///parent object moves and rotates
             transform.parent.position = imagePosition;

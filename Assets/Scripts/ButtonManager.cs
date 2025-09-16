@@ -43,7 +43,6 @@ public class ButtonManager : MonoBehaviour
 
         GameObject button = GameObject.CreatePrimitive(PrimitiveType.Cube);
         button.name = "button";
-        button.transform.position = new Vector3(image.position.x, image.position.y, image.position.z + 0.003f);
         button.transform.localScale = new Vector3(maxWidth, maxHeight, 0.003f);
        
         this.handTracker = gameObject.AddComponent<HandTracker>();
